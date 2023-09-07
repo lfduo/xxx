@@ -1,0 +1,1 @@
+API DEMO URL: http://kawaii.cc/api.php?key=qBqZy1FB6v&host=&port=&time=&method=
